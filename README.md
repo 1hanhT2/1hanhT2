@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @1hanhT2
-- 👀 I’m interested in Cumputer Science
-- 🌱 I’m currently learning in Quang Trung High School for the Gifted (although I'm not really gifted)
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me buitanthanh.tk
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning at Quang Trung High School for the Gifted (although I'm not gifted)
+- 💞️ I’m NOT looking to collaborate on everything, because I don't have the skillset (yet) to do any kind of projects
+- 📫 Reach me @ buitanthanh.tk
 
 <!---
 1hanhT2/1hanhT2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
